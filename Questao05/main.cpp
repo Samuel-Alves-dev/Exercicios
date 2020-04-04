@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream
 using namespace std;
 
 // Declare duas variáveis do tipo unsigned short
