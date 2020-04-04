@@ -23,5 +23,5 @@
 * Use os comandos ```git add``` e ```git commit``` para salvar suas modificações na sua cópia local do repositório
 * Use o comando ```git push``` para enviar suas modificações para o repositório na nuvem
 * Da próxima vez que for fazer alterações, use o comando ```git pull``` para baixar as alterações da nuvem para seu computador
- O ciclo será sempre pull->commit->push
+* O ciclo será sempre pull->commit->push
 
